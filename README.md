@@ -47,7 +47,6 @@
     <img src= https://img.freepik.com/free-photo/handsome-young-businessman-suit_273609-6513.jpg?semt=ais_hybrid&w=740>
     <p><b>Background:</b> Oakley graduated at the top of his class from Purdue University with a Bachelor's degree in Construction Management. He began his career at Tekton as an intern in 2008 and steadily advanced through the organization to become CEO. Today, Oakley leads the Tekton team with a hands-on approach, working closely with clients and staff to deliver reliable, high-quality construction projects that turn houses into homes. </p>
     <p><b>Vision:</b> <i> <span class="secondary">"“I believe in creating spaces that last generations—built right, built responsibly, and built together.”" </span></i></p>
-    <br>
     <a href="mailto:Oakley.Morton@tekton.com">Contact Me</a>
   </div>
 
@@ -58,6 +57,8 @@
     <p><b>Fun Fact:</b> <i><span class="secondary">"When I’m not working on construction projects, I love flying planes—I’m a licensed pilot! Being up in the sky is exciting and peaceful at the same time. Flying has taught me a lot about planning ahead, staying calm under pressure, and always being prepared—skills that help me every day on the job."</span></p>
     <a href="mailto:Allison.Ripley@tekton.com">Contact Me</a>
   </div>
+      
+</Center>
 
   <div class="team-member">
     <h2>Key Team Roles</h2>
@@ -85,6 +86,6 @@
     <p><b><i>Page last modified on:</i></b> <script>document.write(new Date().toLocaleDateString());</script></p>
   </div>
 
-</Center>
+
 </body>
 </html>
