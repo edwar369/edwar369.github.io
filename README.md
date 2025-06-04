@@ -57,7 +57,7 @@
   <div class="team-member">
     <h2>COO - <span class="highlight">Allison Ripley</span></h2>
     <img src="https://www.naem.org/images/default-source/articles-images/naem-2018-article-pretty-older-business-woman-successful-confidence-700x500.jpg?sfvrsn=9ecb369_6" alt="Allison Ripley">
-    <p><b>Responsibilities:</b> As Chief Operating Officer, Allison oversees daily operations to ensure projects run smoothly, safely, and on budget. She works closely with project managers and crews to maintain quality standards and deliver results on time, while also supporting strategic planning and strong client relationships.</p>
+    <p><b>Responsibilities:</b> As Chief Operating Officer, Allison oversees daily operations to ensure projects run smoothly, safely, and on budget. She works closely with project managers and crews to maintain quality standards and deliver results on time, while also supporting strategic planning and strong client relationships. Allison won the <a href= "https://www.agc.org/about-us/awards-recognition-programs" target = "_blank" > Construction Safety Professional of the Year & Construction Safety Champion of the Year Awards, Sponsored by Milwaukee Tool</a> in 2024. </p>
     <p><b>Fun Fact:</b> <i><span class="secondary">"When I’m not working on construction projects, I love flying planes—I’m a licensed pilot! Being up in the sky is exciting and peaceful at the same time. Flying has taught me a lot about planning ahead, staying calm under pressure, and always being prepared—skills that help me every day on the job."</span></i></p>
     <a href="mailto:Allison.Ripley@tekton.com">Contact Me</a>
   </div>
@@ -65,9 +65,9 @@
   <div class="team-member">
     <h2>Key Team Roles</h2>
     <ol>
-      <li><b>Chief Financial Officer:</b> [Name]</li>
-      <li><b>Chief Marketing Officer:</b> [Name]</li>
-      <li><b>Head of Product:</b> [Name]</li>
+      <li><b>Chief Financial Officer:</b> Ross Alvarez</li>
+      <li><b>Chief Marketing Officer:</b> Jocelyn Dougherty</li>
+      <li><b>Head of Product:</b> Brett Robinson</li>
     </ol>
     <ul>
       <li>Dedicated to innovation</li>
