@@ -45,17 +45,18 @@
   <div class="team-member">
     <h2>CEO - <span class="highlight">Oakley Morton</span></h2>
     <img src= https://img.freepik.com/free-photo/handsome-young-businessman-suit_273609-6513.jpg?semt=ais_hybrid&w=740>
-    <p><b>Background:</b> <i>[Oakley graduated at the top of his class from Purdue University with a Bachelor's degree in Construction Management. He began his career at Tekton as an intern in 2008 and steadily advanced through the organization to become CEO. Today, Oakley leads the Tekton team with a hands-on approach, working closely with clients and staff to deliver reliable, high-quality construction projects that turn houses into homes. ]</i></p>
-    <p><b>Vision:</b> <i> <span class="secondary">"[“I believe in creating spaces that last generations—built right, built responsibly, and built together.”]"</i></span></p>
+    <p><b>Background:</b> Oakley graduated at the top of his class from Purdue University with a Bachelor's degree in Construction Management. He began his career at Tekton as an intern in 2008 and steadily advanced through the organization to become CEO. Today, Oakley leads the Tekton team with a hands-on approach, working closely with clients and staff to deliver reliable, high-quality construction projects that turn houses into homes. </p>
+    <p><b>Vision:</b> <i> <span class="secondary">"“I believe in creating spaces that last generations—built right, built responsibly, and built together.”" </span></i></p>
+    <br>
     <a href="mailto:Oakley.Morton@tekton.com">Contact Me</a>
   </div>
 
   <div class="team-member">
-    <h2>COO - <span class="highlight">[Full Name]</span></h2>
-    <img src="[path_to_COO_image.jpg]" alt="COO Photo">
-    <p><b>Responsibilities:</b> <i>[Brief summary of COO's roles]</i></p>
-    <p><b>Fun Fact:</b> <span class="secondary">[Fun or personal detail]</span></p>
-    <a href="mailto:coo@example.com">Contact Me</a>
+    <h2>COO - <span class="highlight"> Allison Ripley </span></h2>
+    <img src= https://www.naem.org/images/default-source/articles-images/naem-2018-article-pretty-older-business-woman-successful-confidence-700x500.jpg?sfvrsn=9ecb369_6>
+    <p><b>Responsibilities:</b> As Chief Operating Officer, Allison oversees daily operations to ensure projects run smoothly, safely, and on budget. She works closely with project managers and crews to maintain quality standards and deliver results on time, while also supporting strategic planning and strong client relationships. </p>
+    <p><b>Fun Fact:</b> <i><span class="secondary">"When I’m not working on construction projects, I love flying planes—I’m a licensed pilot! Being up in the sky is exciting and peaceful at the same time. Flying has taught me a lot about planning ahead, staying calm under pressure, and always being prepared—skills that help me every day on the job."</span></p>
+    <a href="mailto:Allison.Ripley@tekton.com">Contact Me</a>
   </div>
 
   <div class="team-member">
