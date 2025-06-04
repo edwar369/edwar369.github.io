@@ -37,13 +37,14 @@
 </head>
 <body>
 
+<Center>
   <h1><u>Meet Our <span class="highlight">Management Team</span></u></h1>
 
   <p><b>Welcome to the leadership hub of <i>Tekton</i>.</b> Below, you’ll find introductions to management team who bring our company vision and execution to life. We believe strong leadership is critical to our <span class="secondary"><i>mission-driven culture</i></span>.</p>
 
   <div class="team-member">
     <h2>CEO - <span class="highlight">Oakley Morton</span></h2>
-    <img src="[path_to_CEO_image.jpg]" alt="CEO Photo">
+    <img src="[[path_to_CEO_image.jpg]](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fportrait-of-successful-businessman-standing-in-corner-office%2F294621430&psig=AOvVaw0EgEJO57tG8GDzjJGy6Koo&ust=1749137960997000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCr_-2M2I0DFQAAAAAdAAAAABAc)" alt="CEO Photo">
     <p><b>Background:</b> <i>[Brief background or education of the CEO]</i></p>
     <p><b>Vision:</b> <span class="secondary">"[CEO's vision quote or mission statement]"</span></p>
     <a href="mailto:Oakley.Morton@tekton.com">Contact Me</a>
@@ -83,5 +84,6 @@
     <p><b><i>Page last modified on:</i></b> <script>document.write(new Date().toLocaleDateString());</script></p>
   </div>
 
+</Center>
 </body>
 </html>
