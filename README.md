@@ -4,11 +4,14 @@
   <meta charset="UTF-8">
   <title>Our Management Team</title>
   <style>
+
     body {
       font-family: 'Georgia', serif;
       color: #333;
       margin: 20px;
       text-align: center;
+      background-image: url('(https://media.istockphoto.com/id/579157120/vector/construction-skyline-scene-blue-background.jpg?s=612x612&w=0&k=20&c=igltrPF2-r-2onl82frfP0wk8Q_TL428NE1UErg9UBM=)');
+  background-size: cover;
     }
     .team-member {
       font-family: 'Arial', sans-serif;
@@ -41,7 +44,7 @@
   </style>
 </head>
 <body>
-
+ 
   <h1><u>Meet Our <span class="highlight">Management Team</span></u></h1>
 
   <p><b>Welcome to the leadership hub of <i>Tekton</i>.</b> Below, you’ll find introductions to the management team who bring our company’s vision and projects to life. We believe strong leadership is critical to our <span class="secondary"><i>mission-driven culture</i></span>.</p>
