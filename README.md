@@ -82,10 +82,9 @@
   <p><b>More About Us:</b></p>
   <ul>
     <li><a href="https://purdue0-my.sharepoint.com/:w:/r/personal/edwar369_purdue_edu/Documents/MGMT%20352/Our%20Management%20Team%27s%20Favorite%20Projects.docx?d=w753ee98023314c769d557786cd3deb9e&csf=1&web=1&e=3UQ5oV">Mangement's Favorite Projects</a></li>
-    <li><a href="https://www.linkedin.com/company/[YourCompany]" target="_blank">Follow us on LinkedIn</a></li>
   </ul>
 
-  <p><b>Download Our Company Brochure:</b> <a href="files/company_brochure.pdf" download>Click here to download (PDF)</a></p>
+  <p><b>Download Our Mangement's Favorite Projects:</b> <a href="files/Our Management Team's Favorite Projects.pdf" download>Click here to download (PDF)</a></p>
 
   <div class="footer">
     <p><b><i>Page last modified on:</i></b> <script>document.write(new Date().toLocaleDateString());</script></p>
