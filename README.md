@@ -44,9 +44,9 @@
 
   <div class="team-member">
     <h2>CEO - <span class="highlight">Oakley Morton</span></h2>
-    <img src="[[path_to_CEO_image.jpg]](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fportrait-of-successful-businessman-standing-in-corner-office%2F294621430&psig=AOvVaw0EgEJO57tG8GDzjJGy6Koo&ust=1749137960997000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCr_-2M2I0DFQAAAAAdAAAAABAc)" alt="CEO Photo">
-    <p><b>Background:</b> <i>[Brief background or education of the CEO]</i></p>
-    <p><b>Vision:</b> <span class="secondary">"[CEO's vision quote or mission statement]"</span></p>
+    <img src= https://img.freepik.com/free-photo/handsome-young-businessman-suit_273609-6513.jpg?semt=ais_hybrid&w=740>
+    <p><b>Background:</b> <i>[Oakley graduated at the top of his class from Purdue University with a Bachelor's degree in Construction Management. He began his career at Tekton as an intern in 2008 and steadily advanced through the organization to become CEO. Today, Oakley leads the Tekton team with a hands-on approach, working closely with clients and staff to deliver reliable, high-quality construction projects that turn houses into homes. ]</i></p>
+    <p><b>Vision:</b> <i> <span class="secondary">"[“I believe in creating spaces that last generations—built right, built responsibly, and built together.”]"</i></span></p>
     <a href="mailto:Oakley.Morton@tekton.com">Contact Me</a>
   </div>
 
