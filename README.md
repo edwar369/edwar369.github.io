@@ -87,7 +87,7 @@
   <div class="team-member">
       <center>
         <h2>CEO - <span class="highlight">Oakley Morton</span></h2>
-        <img src="https://img.freepik.com/free-photo/handsome-young-businessman-suit_273609-6513.jpg?semt=ais_hybrid&w=740" height = 250 width = 340 alt="Oakley Morton" >
+        <img src="https://img.freepik.com/free-photo/handsome-young-businessman-suit_273609-6513.jpg?semt=ais_hybrid&w=740" height = 250 width = 350 alt="Oakley Morton" >
       </center>
       <p><b>Background:</b> Oakley graduated at the top of his class from Purdue University with a Bachelor's degree in Construction Management. He began his career at Tekton as an intern in 2008 and steadily advanced through the organization to become CEO. Today, Oakley leads the Tekton team with a hands-on approach, working closely with clients and staff to deliver reliable, high-quality construction projects that turn houses into homes.</p>
       <p><b>Vision:</b> <font color = "green"><i><span class="secondary">"I believe in creating spaces that last generations—built right, built responsibly, and built together."</span></i></font></p>
