@@ -9,12 +9,11 @@
       padding: 0;
       font-family: 'Georgia', serif;
       color: #333;
-      background: url('https://images.unsplash.com/photo-1497366811353-6870744d04b2');
+      background: url('https://images.unsplash.com/photo-1497366811353-6870744d04b2') no-repeat center center fixed;
       background-size: cover;
-      position: relative;
     }
 
-    container {
+    .container {
       background-color: white;
       padding: 40px 20px;
       max-width: 1000px;
@@ -22,7 +21,7 @@
       box-shadow: 0 0 10px rgba(0,0,0,0.1);
     }
 
-    team-member {
+    .team-member {
       font-family: 'Arial', sans-serif;
       font-size: 16px;
       margin: 30px auto;
@@ -33,15 +32,15 @@
       width: 90%;
     }
 
-    highlight {
+    .highlight {
       color: darkblue;
     }
 
-    secondary {
-      color: darkgreen;
+    .secondary {
+      color: black;
     }
 
-    small-text {
+    .small-text {
       font-size: 12px;
     }
 
@@ -62,7 +61,7 @@
       text-decoration: underline;
     }
 
-    footer {
+    .footer {
       font-size: 14px;
       margin-top: 40px;
       color: gray;
