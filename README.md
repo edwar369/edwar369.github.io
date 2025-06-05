@@ -8,6 +8,7 @@
       margin: 0;
       padding: 0;
       font-family: 'Georgia', serif;
+      text-align: center;
       color: #333;
       background: url('https://images.unsplash.com/photo-1497366811353-6870744d04b2') no-repeat center center fixed;
       background-size: cover;
