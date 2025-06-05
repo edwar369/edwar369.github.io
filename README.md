@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -8,38 +8,27 @@
       margin: 0;
       padding: 0;
       font-family: 'Georgia', serif;
-      color: #333;
+      background-color: #f0f0f0;
       text-align: center;
-      
-    }
-background-container {
-      background-image: url('https://images.unsplash.com/photo-1590650046871-72d5c8b0a7ef');
-      background-size: cover;
-      background-position: center;
-      min-height: 100vh;
-      position: relative;
     }
 
-    overlay {
-      background-color: rgba(255, 255, 255, 0.85);
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      padding: 30px;
+    container {
+      background-color: white;
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
     }
-    
+
     team-member {
       font-family: 'Arial', sans-serif;
       font-size: 16px;
       margin: 30px auto;
       text-align: left;
-      background: #fff;
+      background-color: white;
       border-radius: 12px;
       padding: 20px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.2);
-      width: 80%;
+      width: 90%;
     }
 
     highlight {
@@ -47,7 +36,7 @@ background-container {
     }
 
     secondary {
-      color: gray;
+      color: darkgreen;
     }
 
     small-text {
@@ -59,7 +48,7 @@ background-container {
       max-width: 600px;
       height: auto;
       border-radius: 10px;
-      margin-top: 10px;
+      background-color: white;
     }
 
     a {
