@@ -97,7 +97,7 @@
   <div class="team-member">
       <center>
         <h2>COO - <span class="highlight">Allison Ripley</span></h2>
-        <img src="https://www.naem.org/images/default-source/articles-images/naem-2018-article-pretty-older-business-woman-successful-confidence-700x500.jpg?sfvrsn=9ecb369_6" height = 110 width = 300 alt="Allison Ripley" >
+        <img src="https://www.naem.org/images/default-source/articles-images/naem-2018-article-pretty-older-business-woman-successful-confidence-700x500.jpg?sfvrsn=9ecb369_6" height = 250 width = 350 alt="Allison Ripley" >
       </center>
       <p><b>Responsibilities:</b> As Chief Operating Officer, Allison oversees daily operations to ensure projects run smoothly, safely, and on budget. She works closely with project managers and crews to maintain quality standards and deliver results on time, while also supporting strategic planning and strong client relationships. Allison won the <a href="https://www.agc.org/about-us/awards-recognition-programs" target="_blank" rel="noopener noreferrer">Construction Safety Professional of the Year & Construction Safety Champion of the Year Awards</a> in 2024.</p>
       <p><b>Fun Fact:</b> <font color = "green"><i><span class="secondary">"When I’m not working on construction projects, I love flying planes—I’m a licensed pilot! Being up in the sky is exciting and peaceful at the same time. Flying has taught me a lot about planning ahead, staying calm under pressure, and always being prepared—skills that help me every day on the job."</span></i></font></p>
