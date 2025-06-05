@@ -8,8 +8,10 @@
       margin: 0;
       padding: 0;
       font-family: 'Georgia', serif;
-      background-color: #f0f0f0;
-      text-align: center;
+      color: #333;
+      background: url('https://images.unsplash.com/photo-1497366811353-6870744d04b2');
+      background-size: cover;
+      position: relative;
     }
 
     container {
