@@ -117,7 +117,7 @@
     </div>
   <div class="team-member">
       <p><b>Download Our Management Team’s Favorite Projects:</b> 
-        <a href="Our Management Team's Favorite Projects.pdf">Click here</a>
+        <a href="Our Management Team's Favorite Projects.docx">Click here</a>
       </p>
       <div class="footer">
         <p><b><i>Page last modified on:</i></b> 6/5/2025</p>
