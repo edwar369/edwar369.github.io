@@ -12,13 +12,24 @@
       text-align: center;
       
     }
+background-container {
+      background-image: url('https://images.unsplash.com/photo-1590650046871-72d5c8b0a7ef');
+      background-size: cover;
+      background-position: center;
+      min-height: 100vh;
+      position: relative;
+    }
 
     overlay {
       background-color: rgba(255, 255, 255, 0.85);
-      padding: 40px 20px;
-      min-height: 100vh;
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      padding: 30px;
     }
-
+    
     team-member {
       font-family: 'Arial', sans-serif;
       font-size: 16px;
