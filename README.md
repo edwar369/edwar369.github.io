@@ -82,9 +82,8 @@
       <h1><u>Meet Our <span class="highlight">Management Team</span></u></h1>
       <p><b>Welcome to the leadership hub of <i>Tekton</i>.</b> Below, you’ll find introductions to the management team who bring our company’s vision and projects to life. We believe strong leadership is critical to our <span class="secondary"><i>mission-driven culture</i></span>.</p>
     </div>
-
-    <!-- CEO -->
-    <div class="team-member">
+    
+  <div class="team-member">
       <center>
         <h2>CEO - <span class="highlight">Oakley Morton</span></h2>
         <img src="https://img.freepik.com/free-photo/handsome-young-businessman-suit_273609-6513.jpg?semt=ais_hybrid&w=740" alt="Oakley Morton">
@@ -94,8 +93,7 @@
       <a href="mailto:Oakley.Morton@tekton.com">Contact Me</a>
     </div>
 
-    <!-- COO -->
-    <div class="team-member">
+  <div class="team-member">
       <center>
         <h2>COO - <span class="highlight">Allison Ripley</span></h2>
         <img src="https://www.naem.org/images/default-source/articles-images/naem-2018-article-pretty-older-business-woman-successful-confidence-700x500.jpg?sfvrsn=9ecb369_6" alt="Allison Ripley">
@@ -105,8 +103,7 @@
       <a href="mailto:Allison.Ripley@tekton.com">Contact Me</a>
     </div>
 
-    <!-- KEY ROLES -->
-    <div class="team-member">
+  <div class="team-member">
       <div class="key-team-header">
         <h2>Key Team Roles</h2>
       </div>
@@ -123,9 +120,7 @@
         </ul>
       </div>
     </div>
-
-    <!-- OUTRO/DOWNLOAD SECTION -->
-    <div class="team-member">
+  <div class="team-member">
       <p><b>Download Our Management Team’s Favorite Projects:</b> 
         <a href="https://purdue0-my.sharepoint.com/:w:/r/personal/edwar369_purdue_edu/Documents/MGMT%20349/Our%20Management%20Team%27s%20Favorite%20Projects.docx?d=wc7ea4bf292a4485392f012d473c37b90&csf=1&web=1&e=GPYsNB" target="_blank" rel="noopener noreferrer">Click here</a>
       </p>
